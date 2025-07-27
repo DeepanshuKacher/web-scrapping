@@ -30,4 +30,4 @@
 **Option 2 API**
 - python api_server.py
 - http://0.0.0.0:8000/docs   :- for api documentation
-- http://localhost:8000//process   :- access api
+- http://localhost:8000/process   :- access api
